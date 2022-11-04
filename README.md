@@ -2,7 +2,7 @@
 
 This repository contains supplementary material and data for our paper titled "Spectral properties of 441 radio pulsars".
 
-The tabular data are also available through the [VizieR service at CDS](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/MNRAS/473/4436).
+The tabular data are also available through the [VizieR service at CDS](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/MNRAS/473/4436) and via its [catalogue link at NASA ADS](https://ui.adsabs.harvard.edu/abs/2018yCat..74734436J/abstract).
 
 ## Paper ##
 
