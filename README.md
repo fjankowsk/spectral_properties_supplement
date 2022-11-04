@@ -1,6 +1,12 @@
-# Supplementary Material for Paper #
+# Supplementary Material for Spectral Properties Paper #
 
-This repository contains supplementary material and data for our paper.
+This repository contains supplementary material and data for our paper titled "Spectral properties of 441 radio pulsars".
+
+The tabular data are also available through the [VizieR service at CDS](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/MNRAS/473/4436).
+
+## Paper ##
+
+The corresponding paper is available via this [NASA ADS link](https://ui.adsabs.harvard.edu/abs/2018MNRAS.473.4436J/abstract).
 
 ## Author ##
 
